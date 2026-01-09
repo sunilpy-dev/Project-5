@@ -62,15 +62,8 @@ Notes:
 - `css/output.css` — compiled CSS (ignored by Git ideally)
 - `imagestw/` — images and screenshots
 
-## Repository hygiene
-
-- `node_modules/` is now ignored via `.gitignore`. If you see large files in history that need purging, consider using the BFG Repo-Cleaner or `git filter-branch` (destructive).
-
 ## Contributing
 
 Feel free to open issues or PRs to improve responsiveness, accessibility, or add components.
 
-## License
-
-Distributed under the ISC License. See `package.json` for details.
 
