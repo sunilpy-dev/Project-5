@@ -1,4 +1,4 @@
-# Twitter Clone — WebDay101 Project
+# Twitter Clone
 ### Project view
 ![Project Screenshot](<Screenshot 2025-01-12 174215.png>) 
 ![Project Screenshot](<Screenshot 2025-01-12 174201.png>)
