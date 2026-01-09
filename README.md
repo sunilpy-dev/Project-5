@@ -1,6 +1,7 @@
 # Twitter Clone — WebDay101 Project
-
-![Project Screenshot](imagestw/images.png)
+### Project view
+![Project Screenshot](<Screenshot 2025-01-12 174215.png>) 
+![Project Screenshot](<Screenshot 2025-01-12 174201.png>)
 
 A responsive Twitter-like front-end built using modern web tooling. This project focuses on layout, Tailwind CSS styling, and a fast development experience using Vite.
 
